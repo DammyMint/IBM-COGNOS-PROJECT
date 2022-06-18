@@ -1,0 +1,15 @@
+ KPI metrics for visualizations:
+
+On the Sales dashboard:
+
+Panel 1 Total Profit in US dollars
+Panel 2 Quantity sold
+Panel 3 Quantity sold by model 
+Panel 4 Average quantity sold
+Panel 5 'Profit' by 'Dealer ID'  in ascending order.
+
+On the Service dashboard:
+Panel 1 Number of recalls per model of car 
+Panel 2 Customer sentiment by comparing positive, neutral, and negative reviews 
+Panel 3 Quantity of cars sold per month compared to the profit 
+Panel 4 Number of recalls by model and affected system to understand if there are any outliers for a given model or a specific system.
